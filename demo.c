@@ -1,4 +1,5 @@
 #include<stdio.h>
+//*Added This comment for testing*//
 long int fact(int n);
 long int Ifact(int n);
 int main(void)
